@@ -1,3 +1,23 @@
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website](https://www.whatdoeschinmaydo.codes/)**
+
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay-takkar&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-takkar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
