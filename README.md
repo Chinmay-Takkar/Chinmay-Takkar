@@ -12,8 +12,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmay-takkar&show_icons=true&locale=en&layout=compact" alt="chinmay-takkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay-takkar&show_icons=true&locale=en" alt="chinmay-takkar" /></p>
+
 
 ## 📊 My GitHub Data:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmay-takkar&show_icons=true&locale=en" alt="chinmay-takkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay-takkar&" alt="chinmay-takkar" /></p>
