@@ -7,7 +7,9 @@
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/chinmay-takkar?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/chinmay-takkar?style=social">
 </div>
-
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
+</div>
 
 ## 👨🏻‍💻 About Me:
 
@@ -29,9 +31,6 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
-</div>
 
 
 <h2 align="center"> Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="30px" width="30px"></h2>
