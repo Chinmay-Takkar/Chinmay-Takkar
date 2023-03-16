@@ -30,7 +30,7 @@
 - ⚡ Fun fact: I waste most of my time playing games
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
 </div>
 
 ## 🛠️Connect with me:
