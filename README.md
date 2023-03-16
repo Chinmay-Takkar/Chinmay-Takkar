@@ -29,9 +29,9 @@
 
 - ⚡ Fun fact: I waste most of my time playing games
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmay-takkar&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-takkar" /> </p>
-
+<div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
+</div>
 
 ## 🛠️Connect with me:
 <p align="left">
