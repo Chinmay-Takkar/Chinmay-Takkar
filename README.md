@@ -2,6 +2,13 @@
 
 <h3 align="center"> UI/UX Developer, Front-End Developer & Programmer from New Delhi, India.</h3>
 
+<div align="center">
+      <img src="https://komarev.com/ghpvc/?username=chinmay-takkar&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-takkar" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/chinmay-takkar?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/chinmay-takkar?style=social">
+</div>
+
+
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
