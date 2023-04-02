@@ -3,12 +3,12 @@
 <h3 align="center"> UI/UX Developer, Front-End Developer & Programmer from New Delhi, India.</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=chinmay-takkar&label=Profile%20views&color=0e75b6&style=flat" alt="chinmay-takkar" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/chinmay-takkar?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/chinmay-takkar?style=social">
+      <img src="https://komarev.com/ghpvc/?username=Chinmay-Takkar&label=Profile%20views&color=0e75b6&style=flat" alt="Chinmay-Takkar" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Chinmay-Takkar?style=social"> 
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Chinmay-Takkar?style=social">
 </div>
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay-takkar" alt="chinmay-takkar" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chinmay-Takkar" alt="Chinmay-Takkar" /></a> </p>
 </div>
 
 ## 👨🏻‍💻 About Me:
@@ -72,18 +72,18 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay-takkar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinmay-Takkar&theme=dark&layout=compact&langs_count=20&hide_title=true"/>
 </div>
 
 <!-- Github Stats Section -->
 <h2 align="center">Github Stats ⚡</h2>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/chinmay-takkar/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay-takkar&theme=react&border=61dafb&hide_border=true" alt="1hanzla100" />
+    <a href="https://github.com/Chinmay-Takkar/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmay-Takkar&theme=react&border=61dafb&hide_border=true" alt="1hanzla100" />
     </a>
-    <a href="https://github.com/chinmay-takkar/github-readme-stats" title="Go to Source">
-      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=chinmay-takkar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/Chinmay-Takkar/github-readme-stats" title="Go to Source">
+      <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Chinmay-Takkar&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
